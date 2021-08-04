@@ -2,5 +2,2814 @@
 # All are available on etoro
 
 etf_ticker_definition = {
-
+    "iShares 20+ Year Treasury Bond ": {
+        "default_ticker": "TLT",
+        "etoro": "TLT",
+        "long_name": "iShares Trust - iShares 20+ Year Treasury Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "ARK Autonomous Technology & Rob": {
+        "default_ticker": "ARKQ",
+        "etoro": "ARKQ",
+        "long_name": "ARK Autonomous Technology & Robotics ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ARK ETF Trust"
+    },
+    "ARK Fintech Innovation ETF": {
+        "default_ticker": "ARKF",
+        "etoro": "ARKF",
+        "long_name": "ARK Fintech Innovation ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ARK ETF Trust"
+    },
+    "ARK Genomic Revolution ETF": {
+        "default_ticker": "ARKG",
+        "etoro": "ARKG",
+        "long_name": "ARK Genomic Revolution ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ARK ETF Trust"
+    },
+    "ARK Innovation ETF": {
+        "default_ticker": "ARKK",
+        "etoro": "ARKK",
+        "long_name": "ARK Innovation ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ARK ETF Trust"
+    },
+    "ARK Next Generation Internet ET": {
+        "default_ticker": "ARKW",
+        "etoro": "ARKW",
+        "long_name": "ARK Next Generation Internet ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ARK ETF Trust"
+    },
+    "ARK Space Exploration & Innovat": {
+        "default_ticker": "ARKX",
+        "etoro": "ARKX",
+        "long_name": "ARK Space Exploration &amp; Innovation ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ARK ETF Trust"
+    },
+    "Aberdeen Standard Physical Pall": {
+        "default_ticker": "PALL",
+        "etoro": "PALL",
+        "long_name": "Aberdeen Standard Physical Palladium Shares ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Aberdeen Standard Investments"
+    },
+    "Aberdeen Standard Physical Plat": {
+        "default_ticker": "PPLT",
+        "etoro": "PPLT",
+        "long_name": "Aberdeen Standard Physical Platinum Shares ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Aberdeen Standard Investments"
+    },
+    "Alerian MLP ETF": {
+        "default_ticker": "AMLP",
+        "etoro": "AMLP",
+        "long_name": "Alerian MLP ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ALPS"
+    },
+    "Amplify High Income ETF": {
+        "default_ticker": "YYY",
+        "etoro": "YYY",
+        "long_name": "Amplify High Income ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Amplify ETFs"
+    },
+    "Amplify Transformational Data S": {
+        "default_ticker": "BLOK",
+        "etoro": "BLOK",
+        "long_name": "Amplify Transformational Data Sharing ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Amplify ETFs"
+    },
+    "Blackrock Corporate High Yield ": {
+        "default_ticker": "HYT",
+        "etoro": "HYT",
+        "long_name": "BlackRock Corporate High Yield Fund, Inc.",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "Blackrock Enhanced Equity Divid": {
+        "default_ticker": "BDJ",
+        "etoro": "BDJ",
+        "long_name": "BlackRock Enhanced Equity Dividend Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "iShares Inc iShares MSCI Brazil": {
+        "default_ticker": "EWZ",
+        "etoro": "EWZ",
+        "long_name": "iShares MSCI Brazil ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "Canadian Pacific Railway Limite": {
+        "default_ticker": "CP",
+        "etoro": "CP",
+        "long_name": "Canadian Pacific Railway Limited",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR Select Sector Fund - Consu": {
+        "default_ticker": "XLP",
+        "etoro": "XLP",
+        "long_name": "Consumer Staples Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "Credit Suisse AG - VelocityShar": {
+        "default_ticker": "XIV",
+        "etoro": "XIV",
+        "long_name": "",
+        "tz_name": "",
+        "tz_short_name": "",
+        "quote_type": "EQUITY",
+        "market": "",
+        "fund_family": ""
+    },
+    "iShares U.S. Real Estate ETF": {
+        "default_ticker": "IYR",
+        "etoro": "IYR",
+        "long_name": "iShares Trust - iShares U.S. Real Estate ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "Defiance Next Gen Connectivity ": {
+        "default_ticker": "FIVG",
+        "etoro": "FIVG",
+        "long_name": "Defiance 5G Next Gen Connectivity ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Defiance ETFs"
+    },
+    "Direxion Daily 20-Yr Treasury B": {
+        "default_ticker": "TMF",
+        "etoro": "TMF",
+        "long_name": "Direxion Daily 20+ Year Treasury Bull 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily Aerospace & Defe": {
+        "default_ticker": "DFEN",
+        "etoro": "DFEN",
+        "long_name": "Direxion Daily Aerospace & Defense Bull 3X Shares Direxion Daily Aerospace",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Energy Bull 2X Shares": {
+        "default_ticker": "ERX",
+        "etoro": "ERX",
+        "long_name": "Direxion Daily Energy Bull 2X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily FTSE China Bull ": {
+        "default_ticker": "YINN",
+        "etoro": "YINN",
+        "long_name": "Direxion Daily FTSE China Bull 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Financial Bear 3X Shar": {
+        "default_ticker": "FAZ",
+        "etoro": "FAZ",
+        "long_name": "Direxion Daily Financial Bear 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Financial Bull 3X Shar": {
+        "default_ticker": "FAS",
+        "etoro": "FAS",
+        "long_name": "Direxion Daily Financial Bull 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily Gold Miners Inde": {
+        "default_ticker": "NUGT",
+        "etoro": "NUGT",
+        "long_name": "Direxion Daily Gold Miners Index Bull 2X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily Junior Gold Mine": {
+        "default_ticker": "JNUG",
+        "etoro": "JNUG",
+        "long_name": "Direxion Daily Junior Gold Miners Index Bull 2X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily Brazil Bull 2X S": {
+        "default_ticker": "BRZU",
+        "etoro": "BRZU",
+        "long_name": "Direxion Daily MSCI Brazil Bull 2X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily Russia Bull 2X S": {
+        "default_ticker": "RUSL",
+        "etoro": "RUSL",
+        "long_name": "Direxion Daily Russia Bull 2X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily S&P 500 Bear 3X": {
+        "default_ticker": "SPXS",
+        "etoro": "SPXS",
+        "long_name": "Direxion Daily S&P 500 Bear 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily S&P 500 Bull 3X ": {
+        "default_ticker": "SPXL",
+        "etoro": "SPXL",
+        "long_name": "Direxion Daily S&P500 Bull 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily S&P Biotech Bear": {
+        "default_ticker": "LABD",
+        "etoro": "LABD",
+        "long_name": "Direxion Daily S&P Biotech Bear 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily S&P Oil & Gas Ex": {
+        "default_ticker": "GUSH",
+        "etoro": "GUSH",
+        "long_name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily Semiconductor Be": {
+        "default_ticker": "SOXS",
+        "etoro": "SOXS",
+        "long_name": "Direxion Daily Semiconductor Bear 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily Semiconductor Bu": {
+        "default_ticker": "SOXL",
+        "etoro": "SOXL",
+        "long_name": "Direxion Daily Semiconductor Bull 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Small Cap Bear 3X Shar": {
+        "default_ticker": "TZA",
+        "etoro": "TZA",
+        "long_name": "Direxion Daily Small Cap Bear 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Small Cap Bull 3X Shar": {
+        "default_ticker": "TNA",
+        "etoro": "TNA",
+        "long_name": "Direxion Daily Small Cap Bull 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "Direxion Daily Homebuilders & S": {
+        "default_ticker": "NAIL",
+        "etoro": "NAIL",
+        "long_name": "Direxion Shares ETF Trust - Direxion Daily Homebuilders & Supplies Bull 3X Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Direxion Funds"
+    },
+    "ETFMG Alternative Harvest ETF": {
+        "default_ticker": "MJ",
+        "etoro": "MJ",
+        "long_name": "ETFMG Alternative Harvest ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ETFMG"
+    },
+    "iShares MSCI Emerging Index Fun": {
+        "default_ticker": "EEM",
+        "etoro": "EEM",
+        "long_name": "iShares, Inc. - iShares MSCI Emerging Markets ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR Select Sector Fund - Energ": {
+        "default_ticker": "XLE",
+        "etoro": "XLE",
+        "long_name": "Energy Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "Fidelity MSCI Information Techn": {
+        "default_ticker": "FTEC",
+        "etoro": "FTEC",
+        "long_name": "Fidelity MSCI Information Technology Index ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Fidelity Investments"
+    },
+    "Fidelity MSCI Real Estate Index": {
+        "default_ticker": "FREL",
+        "etoro": "FREL",
+        "long_name": "Fidelity MSCI Real Estate Index ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Fidelity Investments"
+    },
+    "SPDR Select Sector Fund - Finan": {
+        "default_ticker": "XLF",
+        "etoro": "XLF",
+        "long_name": "Financial Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "First Trust Cloud Computing ETF": {
+        "default_ticker": "SKYY",
+        "etoro": "SKYY",
+        "long_name": "First Trust Cloud Computing ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "First Trust"
+    },
+    "Multi-Asset Diversified Income ": {
+        "default_ticker": "MDIV",
+        "etoro": "MDIV",
+        "long_name": "First Trust Multi-Asset Diversified Income Index Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "First Trust"
+    },
+    "First Trust NASDAQ Clean Edge G": {
+        "default_ticker": "QCLN",
+        "etoro": "QCLN",
+        "long_name": "First Trust NASDAQ Clean Edge Green Energy Index Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "First Trust"
+    },
+    "First Trust NASDAQ Cybersecurit": {
+        "default_ticker": "CIBR",
+        "etoro": "CIBR",
+        "long_name": "First Trust NASDAQ Cybersecurity ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "First Trust"
+    },
+    "Global X Super Dividend ETF": {
+        "default_ticker": "DIV",
+        "etoro": "DIV",
+        "long_name": "Global X SuperDividend U.S. ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Global X Funds"
+    },
+    "Global X Cloud Computing ETF": {
+        "default_ticker": "CLOU",
+        "etoro": "CLOU",
+        "long_name": "Global X Cloud Computing ETF Global X Cloud Computing ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Global X Funds"
+    },
+    "Global X Internet of Things ETF": {
+        "default_ticker": "SNSR",
+        "etoro": "SNSR",
+        "long_name": "Global X Internet of Things ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Global X Funds"
+    },
+    "Global X Lithium & Battery Tech": {
+        "default_ticker": "LIT",
+        "etoro": "LIT",
+        "long_name": "Global X Lithium & Battery Tech ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Global X Funds"
+    },
+    "Global X NASDAQ-100 Covered Cal": {
+        "default_ticker": "QYLD",
+        "etoro": "QYLD",
+        "long_name": "Global X NASDAQ 100 Covered Call ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Global X Funds"
+    },
+    "Global X SuperDividend ETF": {
+        "default_ticker": "SDIV",
+        "etoro": "SDIV",
+        "long_name": "Global X SuperDividend ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Global X Funds"
+    },
+    "Global X SuperDividend REIT ETF": {
+        "default_ticker": "SRET",
+        "etoro": "SRET",
+        "long_name": "Global X SuperDividend REIT ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Global X Funds"
+    },
+    "GraniteShares Gold Trust Shares": {
+        "default_ticker": "BAR",
+        "etoro": "BAR",
+        "long_name": "GraniteShares Gold Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Graniteshares"
+    },
+    "iShares Inc iShares MSCI Mexico": {
+        "default_ticker": "EWW",
+        "etoro": "EWW",
+        "long_name": "iShares MSCI Mexico ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Inc iShares MSCI South ": {
+        "default_ticker": "EWY",
+        "etoro": "EWY",
+        "long_name": "iShares MSCI South Korea ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Inc iShares MSCI Taiwan": {
+        "default_ticker": "EWT",
+        "etoro": "EWT",
+        "long_name": "iShares MSCI Taiwan ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares iBoxx $ High Yield Corp": {
+        "default_ticker": "HYG",
+        "etoro": "HYG",
+        "long_name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "SPDR Select Sector Fund - Indus": {
+        "default_ticker": "XLI",
+        "etoro": "XLI",
+        "long_name": "Industrial Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "InfraCap MLP ETF": {
+        "default_ticker": "AMZA",
+        "etoro": "AMZA",
+        "long_name": "InfraCap MLP ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Virtus"
+    },
+    "Invesco China Technology ETF": {
+        "default_ticker": "CQQQ",
+        "etoro": "CQQQ",
+        "long_name": "Invesco China Technology ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco DB Agriculture Fund": {
+        "default_ticker": "DBA",
+        "etoro": "DBA",
+        "long_name": "Invesco DB Agriculture Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco DB Oil Fund": {
+        "default_ticker": "DBO",
+        "etoro": "DBO",
+        "long_name": "Invesco DB Oil Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco NASDAQ Next Gen 100 ETF": {
+        "default_ticker": "QQQJ",
+        "etoro": "QQQJ",
+        "long_name": "Invesco NASDAQ Next Gen 100 ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco Preferred ETF": {
+        "default_ticker": "PGX",
+        "etoro": "PGX",
+        "long_name": "Invesco Preferred ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco QQQ Trust, Series 1": {
+        "default_ticker": "QQQ",
+        "etoro": "QQQ",
+        "long_name": "Invesco QQQ Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco S&P 500 High Dividend L": {
+        "default_ticker": "SPHD",
+        "etoro": "SPHD",
+        "long_name": "Invesco S&P 500 High Dividend Low Volatility ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco S&P 500 Low Volatility ": {
+        "default_ticker": "SPLV",
+        "etoro": "SPLV",
+        "long_name": "Invesco S&P 500 Low Volatility ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco S&P Global Water Index ": {
+        "default_ticker": "CGW",
+        "etoro": "CGW",
+        "long_name": "Invesco S&P Global Water Index ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco Senior Loan ETF": {
+        "default_ticker": "BKLN",
+        "etoro": "BKLN",
+        "long_name": "Invesco Senior Loan ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "Invesco Solar ETF": {
+        "default_ticker": "TAN",
+        "etoro": "TAN",
+        "long_name": "Invesco Solar ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Invesco"
+    },
+    "iShares MSCI Japan Index Fund": {
+        "default_ticker": "EWJ",
+        "etoro": "EWJ",
+        "long_name": "iShares MSCI Japan ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Biotechnology ETF": {
+        "default_ticker": "IBB",
+        "etoro": "IBB",
+        "long_name": "iShares Biotechnology ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Russell 2000 ETF": {
+        "default_ticker": "IWM",
+        "etoro": "IWM",
+        "long_name": "iShares Russell 2000 ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "JPMorgan Ultra-Short Income ETF": {
+        "default_ticker": "JPST",
+        "etoro": "JPST",
+        "long_name": "JPMorgan Ultra-Short Income ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "JPMorgan"
+    },
+    "KraneShares Trust KraneShares C": {
+        "default_ticker": "KWEB",
+        "etoro": "KWEB",
+        "long_name": "KraneShares CSI China Internet ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "KraneShares"
+    },
+    "Materials Select Sector SPDR": {
+        "default_ticker": "XLB",
+        "etoro": "XLB",
+        "long_name": "Materials Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "MicroSectors FANG  Index 3X Lev": {
+        "default_ticker": "FNGU",
+        "etoro": "FNGU",
+        "long_name": "MicroSectors FANG+ Index 3X Leveraged ETN",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "BMO Capital Markets Corp."
+    },
+    "MicroSectors U.S. Big Oil Index": {
+        "default_ticker": "NRGU",
+        "etoro": "NRGU",
+        "long_name": "MicroSectors U.S. Big Oil Index 3X Leveraged ETNs",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Microsectors"
+    },
+    "70968": {
+        "default_ticker": "NRO",
+        "etoro": "NRO",
+        "long_name": "Neuberger Berman Real Estate Securities Income Fund Inc.",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "OShares U.S. Quality Dividend E": {
+        "default_ticker": "OUSA",
+        "etoro": "OUSA",
+        "long_name": "O\u2019Shares U.S. Quality Dividend ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "O&#39;Shares Investments"
+    },
+    "PIMCO Active Bond Exchange-Trad": {
+        "default_ticker": "BOND",
+        "etoro": "BOND",
+        "long_name": "PIMCO Active Bond Exchange-Traded Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "PIMCO"
+    },
+    "Pimco Corporate & Income Opport": {
+        "default_ticker": "PTY",
+        "etoro": "PTY",
+        "long_name": "PIMCO Corporate & Income Opportunity Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "PIMCO Enhanced Short Maturity A": {
+        "default_ticker": "MINT",
+        "etoro": "MINT",
+        "long_name": "PIMCO Enhanced Short Maturity Active Exchange-Traded Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "PIMCO"
+    },
+    "Pimco High Income Fund Pimco Hi": {
+        "default_ticker": "PHK",
+        "etoro": "PHK",
+        "long_name": "PIMCO High Income Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "ProShares S&P 500 Dividend Aris": {
+        "default_ticker": "NOBL",
+        "etoro": "NOBL",
+        "long_name": "ProShares S&P 500 Dividend Aristocrats ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares Short S&P500": {
+        "default_ticker": "SH",
+        "etoro": "SH",
+        "long_name": "ProShares Short S&P500",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares Short VIX Short Term ": {
+        "default_ticker": "SVXY",
+        "etoro": "SVXY",
+        "long_name": "ProShares Trust II - ProShares Short VIX Short-Term Futures ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares Ultra Bloomberg Crude": {
+        "default_ticker": "UCO",
+        "etoro": "UCO",
+        "long_name": "ProShares Ultra Bloomberg Crude Oil",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares Trust Ultra VIX Short": {
+        "default_ticker": "UVXY",
+        "etoro": "UVXY",
+        "long_name": "ProShares Ultra VIX Short-Term Futures ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares UltraPro Dow30": {
+        "default_ticker": "UDOW",
+        "etoro": "UDOW",
+        "long_name": "ProShares UltraPro Dow30",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares UltraPro QQQ": {
+        "default_ticker": "TQQQ",
+        "etoro": "TQQQ",
+        "long_name": "ProShares UltraPro QQQ",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares UltraPro S&P 500": {
+        "default_ticker": "UPRO",
+        "etoro": "UPRO",
+        "long_name": "ProShares UltraPro S&P500",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "UltraPro Short Dow30": {
+        "default_ticker": "SDOW",
+        "etoro": "SDOW",
+        "long_name": "ProShares UltraPro Short Dow30",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares UltraPro Short QQQ": {
+        "default_ticker": "SQQQ",
+        "etoro": "SQQQ",
+        "long_name": "ProShares UltraPro Short QQQ",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares UltraPro Short Russel": {
+        "default_ticker": "SRTY",
+        "etoro": "SRTY",
+        "long_name": "ProShares UltraPro Short Russell2000",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares UltraPro Short S&P500": {
+        "default_ticker": "SPXU",
+        "etoro": "SPXU",
+        "long_name": "ProShares UltraPro Short S&P500",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares UltraShort Bloomberg ": {
+        "default_ticker": "SCO",
+        "etoro": "SCO",
+        "long_name": "ProShares UltraShort Bloomberg Crude Oil",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares UltraShort S&P500": {
+        "default_ticker": "SDS",
+        "etoro": "SDS",
+        "long_name": "ProShares UltraShort S&P500",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares Pet Care ETF": {
+        "default_ticker": "PAWZ",
+        "etoro": "PAWZ",
+        "long_name": "ProShares Pet Care ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "ProShares Ultra S&P500": {
+        "default_ticker": "SSO",
+        "etoro": "SSO",
+        "long_name": "ProShares Ultra S&P500",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "ProShares"
+    },
+    "Real Estate Select Sector SPDR ": {
+        "default_ticker": "XLRE",
+        "etoro": "XLRE",
+        "long_name": "The Real Estate Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR Bloomberg Barclays Short T": {
+        "default_ticker": "SJNK",
+        "etoro": "SJNK",
+        "long_name": "SPDR Bloomberg Barclays Short Term High Yield Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR Bloomberg Barclays 1-3 Mon": {
+        "default_ticker": "BIL",
+        "etoro": "BIL",
+        "long_name": "SPDR Bloomberg Barclays 1-3 Month T-Bill ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR Bloomberg Barclays High Yi": {
+        "default_ticker": "JNK",
+        "etoro": "JNK",
+        "long_name": "SPDR Bloomberg Barclays High Yield Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR DJ Wilshire REIT ETF": {
+        "default_ticker": "RWR",
+        "etoro": "RWR",
+        "long_name": "SPDR Series Trust - SPDR Dow Jones REIT ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR Dow Jones Industrial Avera": {
+        "default_ticker": "DIA",
+        "etoro": "DIA",
+        "long_name": "SPDR Dow Jones Industrial Average ETF Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR DJ Euro STOXX 50 Etf": {
+        "default_ticker": "FEZ",
+        "etoro": "FEZ",
+        "long_name": "SPDR EURO STOXX 50 ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR Gold Trust": {
+        "default_ticker": "GLD",
+        "etoro": "GLD",
+        "long_name": "SPDR Gold Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR Gold MiniShares Trust": {
+        "default_ticker": "GLDM",
+        "etoro": "GLDM",
+        "long_name": "SPDR Gold MiniShares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR MSCI FINANC": {
+        "default_ticker": "STZ.PA",
+        "etoro": "STZ.PA",
+        "long_name": "SSgA SPDR ETFs Europe II Public Limited Company - SPDR MSCI Europe Financials UCITS ETF",
+        "tz_name": "Europe/Paris",
+        "tz_short_name": "CEST",
+        "quote_type": "ETF",
+        "market": "fr_market",
+        "fund_family": ""
+    },
+    "SPDR Nuveen Bloomberg Barclays ": {
+        "default_ticker": "TFI",
+        "etoro": "TFI",
+        "long_name": "SPDR Nuveen Bloomberg Barclays Municipal Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR Series Trust SPDR Portfoli": {
+        "default_ticker": "SPYD",
+        "etoro": "SPYD",
+        "long_name": "SPDR Portfolio S&amp;P 500 High Dividend ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR S&P 500": {
+        "default_ticker": "SPY",
+        "etoro": "SPY",
+        "long_name": "SPDR S&P 500 ETF Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SSGA SPDR ETFS EUROPE I PLC SPD": {
+        "default_ticker": "SPY5.L",
+        "etoro": "SPY5.L",
+        "long_name": "SPDR S&amp;P 500 UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": "State Street Global Advisors Ltd"
+    },
+    "SPDR S&P Bank ETF": {
+        "default_ticker": "KBE",
+        "etoro": "KBE",
+        "long_name": "SPDR S&P Bank ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR Series Trust  SPDR S&P Bio": {
+        "default_ticker": "XBI",
+        "etoro": "XBI",
+        "long_name": "SPDR S&P Biotech ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR MidCap Trust Series I": {
+        "default_ticker": "MDY",
+        "etoro": "MDY",
+        "long_name": "SPDR S&P MIDCAP 400 ETF Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR S&P Oil & Gas Explor & Pro": {
+        "default_ticker": "XOP",
+        "etoro": "XOP",
+        "long_name": "SPDR S&P Oil & Gas Exploration & Production ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR S&P Regional Banking ETF": {
+        "default_ticker": "KRE",
+        "etoro": "KRE",
+        "long_name": "SPDR S&P Regional Banking ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "SPDR S&P U.S. Consumer Discreti": {
+        "default_ticker": "SXLY",
+        "etoro": "SXLY",
+        "long_name": "SPDR S&P U.S. Consumer Discretionary Select Sector UCITS ETF (USD)",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR S&P U.S. Consumer Staples": {
+        "default_ticker": "SXLP",
+        "etoro": "SXLP",
+        "long_name": "SPDR S&P U.S. Consumer Staples Select Sector UCITS ETF (USD)",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "MUTUALFUND",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR S&P U.S. Energy Select Sec": {
+        "default_ticker": "SXLE",
+        "etoro": "SXLE",
+        "long_name": "SPDR S&P U.S. Energy Select Sector UCITS ETF (USD)",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR S&P U.S. Financials Select": {
+        "default_ticker": "SXLF",
+        "etoro": "SXLF",
+        "long_name": "SPDR S&P U.S. Financials Select Sector UCITS ETF (USD)",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR S&P U.S. Health Care Selec": {
+        "default_ticker": "SXLV",
+        "etoro": "SXLV",
+        "long_name": "SPDR S&P U.S. Health Care Select Sector UCITS ETF (USD)",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR S&P U.S. Industrials Selec": {
+        "default_ticker": "SXLI",
+        "etoro": "SXLI",
+        "long_name": "SPDR S&P U.S. Industrials Select Sector UCITS ETF (USD)",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR S&P U.S. Technology Select": {
+        "default_ticker": "SXLK",
+        "etoro": "SXLK",
+        "long_name": "SPDR S&P U.S. Technology Select Sector UCITS ETF (USD)",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR S&P U.S. Utilities Select": {
+        "default_ticker": "SXLU",
+        "etoro": "SXLU",
+        "long_name": "SPDR S&P U.S. Utilities Select Sector UCITS ETF (USD)",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "The Communication Services Sele": {
+        "default_ticker": "XLC",
+        "etoro": "XLC",
+        "long_name": "Communication Services Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "Schwab Emerging Markets Equity ": {
+        "default_ticker": "SCHE",
+        "etoro": "SCHE",
+        "long_name": "Schwab Emerging Markets Equity ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Schwab ETFs"
+    },
+    "Schwab International Equity ETF": {
+        "default_ticker": "SCHF",
+        "etoro": "SCHF",
+        "long_name": "Schwab International Equity ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Schwab ETFs"
+    },
+    "Schwab US Dividend Equity ETF": {
+        "default_ticker": "SCHD",
+        "etoro": "SCHD",
+        "long_name": "Schwab U.S. Dividend Equity ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Schwab ETFs"
+    },
+    "Schwab U.S. Large-Cap ETF": {
+        "default_ticker": "SCHX",
+        "etoro": "SCHX",
+        "long_name": "Schwab U.S. Large-Cap ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Schwab ETFs"
+    },
+    "Sprott Physical Gold Trust ETV": {
+        "default_ticker": "PHYS",
+        "etoro": "PHYS",
+        "long_name": "Sprott Physical Gold Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "Sprott Physical Silver Trust ET": {
+        "default_ticker": "PSLV",
+        "etoro": "PSLV",
+        "long_name": "Sprott Physical Silver Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "SPDR Select Sector Fund - Techn": {
+        "default_ticker": "XLK",
+        "etoro": "XLK",
+        "long_name": "Technology Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "Teucrium Corn Fund ETV": {
+        "default_ticker": "CORN",
+        "etoro": "CORN",
+        "long_name": "Teucrium Corn Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Teucrium"
+    },
+    "Teucrium Wheat Fund ETV": {
+        "default_ticker": "WEAT",
+        "etoro": "WEAT",
+        "long_name": "Teucrium Wheat",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Teucrium"
+    },
+    "SPDR Select Sector Fund - Healt": {
+        "default_ticker": "XLV",
+        "etoro": "XLV",
+        "long_name": "Health Care Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "U.S. Global Jets ETF": {
+        "default_ticker": "JETS",
+        "etoro": "JETS",
+        "long_name": "U.S. Global Jets ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "U.S. Global Investors"
+    },
+    "United States Natural Gas Fund ": {
+        "default_ticker": "UNG",
+        "etoro": "UNG",
+        "long_name": "United States Natural Gas Fund, LP",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "USCF Investments"
+    },
+    "United States 12 Month Oil": {
+        "default_ticker": "USL",
+        "etoro": "USL",
+        "long_name": "United States 12 Month Oil Fund, LP",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "USCF Investments"
+    },
+    "United States Gasoline Fund LP": {
+        "default_ticker": "UGA",
+        "etoro": "UGA",
+        "long_name": "United States Gasoline Fund, LP",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "USCF Investments"
+    },
+    "United States Oil Fund": {
+        "default_ticker": "USO",
+        "etoro": "USO",
+        "long_name": "United States Oil Fund, LP",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "USCF Investments"
+    },
+    "SPDR Select Sector Fund - Utili": {
+        "default_ticker": "XLU",
+        "etoro": "XLU",
+        "long_name": "Utilities Select Sector SPDR Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "SPDR State Street Global Advisors"
+    },
+    "VanEck Vectors Gold Miners ETF": {
+        "default_ticker": "GDX",
+        "etoro": "GDX",
+        "long_name": "VanEck Vectors Gold Miners ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "VanEck"
+    },
+    "VanEck Vectors Junior Gold Mine": {
+        "default_ticker": "GDXJ",
+        "etoro": "GDXJ",
+        "long_name": "VanEck Vectors Junior Gold Miners ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "VanEck"
+    },
+    "VanEck Vectors Oil Services ETF": {
+        "default_ticker": "OIH",
+        "etoro": "OIH",
+        "long_name": "VanEck Vectors Oil Services ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "VanEck"
+    },
+    "VanEck Vectors Russia ETF": {
+        "default_ticker": "RSX",
+        "etoro": "RSX",
+        "long_name": "VanEck Vectors Russia ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "VanEck"
+    },
+    "VanEck Vectors Semiconductor ET": {
+        "default_ticker": "SMH",
+        "etoro": "SMH",
+        "long_name": "VanEck Vectors Semiconductor ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "VanEck"
+    },
+    "Vanguard Communication Services": {
+        "default_ticker": "VOX",
+        "etoro": "VOX",
+        "long_name": "Vanguard Communication Services Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Div Appreciation ETF": {
+        "default_ticker": "VIG",
+        "etoro": "VIG",
+        "long_name": "Vanguard Dividend Appreciation Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard FTSE All World Ex US E": {
+        "default_ticker": "VEU",
+        "etoro": "VEU",
+        "long_name": "Vanguard FTSE All-World ex-US Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard FTSE Developed Markets": {
+        "default_ticker": "VEA",
+        "etoro": "VEA",
+        "long_name": "Vanguard FTSE Developed Markets Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard FTSE Emerging Markets ": {
+        "default_ticker": "VWO",
+        "etoro": "VWO",
+        "long_name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard FTSEEuropean ETF": {
+        "default_ticker": "VGK",
+        "etoro": "VGK",
+        "long_name": "Vanguard FTSE Europe Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Financials ETF": {
+        "default_ticker": "VFH",
+        "etoro": "VFH",
+        "long_name": "Vanguard Financials Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Growth ETF": {
+        "default_ticker": "VUG",
+        "etoro": "VUG",
+        "long_name": "Vanguard Growth Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Health Care ETF": {
+        "default_ticker": "VHT",
+        "etoro": "VHT",
+        "long_name": "Vanguard Health Care Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Information Tech ETF": {
+        "default_ticker": "VGT",
+        "etoro": "VGT",
+        "long_name": "Vanguard Information Technology Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Intermediate-Term Corp": {
+        "default_ticker": "VCIT",
+        "etoro": "VCIT",
+        "long_name": "Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Long-Term Bond ETF": {
+        "default_ticker": "BLV",
+        "etoro": "BLV",
+        "long_name": "Vanguard Long-Term Bond Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Mid-Cap ETF": {
+        "default_ticker": "VO",
+        "etoro": "VO",
+        "long_name": "Vanguard Mid-Cap Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Mid-Cap Value ETF": {
+        "default_ticker": "VOE",
+        "etoro": "VOE",
+        "long_name": "Vanguard Mid-Cap Value Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Real Estate ETF": {
+        "default_ticker": "VNQ",
+        "etoro": "VNQ",
+        "long_name": "Vanguard Real Estate Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Russell 1000 Growth ET": {
+        "default_ticker": "VONG",
+        "etoro": "VONG",
+        "long_name": "Vanguard Russell 1000 Growth Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard S&P 500 ETF": {
+        "default_ticker": "VOO",
+        "etoro": "VOO",
+        "long_name": "Vanguard S&P 500 ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard S&P 500 Growth ETF": {
+        "default_ticker": "VOOG",
+        "etoro": "VOOG",
+        "long_name": "Vanguard S&P 500 Growth Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard S&P 500 Value ETF": {
+        "default_ticker": "VOOV",
+        "etoro": "VOOV",
+        "long_name": "Vanguard S&P 500 Value Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Short-Term Bond ETF": {
+        "default_ticker": "BSV",
+        "etoro": "BSV",
+        "long_name": "Vanguard Short-Term Bond Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Short-Term Corporate B": {
+        "default_ticker": "VCSH",
+        "etoro": "VCSH",
+        "long_name": "Vanguard Short-Term Corporate Bond Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Short-Term Inflation-P": {
+        "default_ticker": "VTIP",
+        "etoro": "VTIP",
+        "long_name": "Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Small-Cap ETF": {
+        "default_ticker": "VB",
+        "etoro": "VB",
+        "long_name": "Vanguard Small-Cap Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Small-Cap Growth ETF": {
+        "default_ticker": "VBK",
+        "etoro": "VBK",
+        "long_name": "Vanguard Small-Cap Growth Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Small-Cap Value ETF": {
+        "default_ticker": "VBR",
+        "etoro": "VBR",
+        "long_name": "Vanguard Small-Cap Value Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Tax-Exempt Bond ETF": {
+        "default_ticker": "VTEB",
+        "etoro": "VTEB",
+        "long_name": "Vanguard Tax-Exempt Bond Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Total Bond Market ETF": {
+        "default_ticker": "BND",
+        "etoro": "BND",
+        "long_name": "Vanguard Total Bond Market Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Total International Bo": {
+        "default_ticker": "BNDX",
+        "etoro": "BNDX",
+        "long_name": "Vanguard Total International Bond Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Total International St": {
+        "default_ticker": "VXUS",
+        "etoro": "VXUS",
+        "long_name": "Vanguard Total International Stock Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Total Stock Market ETF": {
+        "default_ticker": "VTI",
+        "etoro": "VTI",
+        "long_name": "Vanguard Total Stock Market Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "Vanguard Value ETF": {
+        "default_ticker": "VTV",
+        "etoro": "VTV",
+        "long_name": "Vanguard Value Index Fund ETF Shares",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Vanguard"
+    },
+    "VelocityShares Daily 2x VIX Sho": {
+        "default_ticker": "TVIX",
+        "etoro": "TVIX",
+        "long_name": "VelocityShares Daily 2x VIX Short-Term ETN",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "238549": {
+        "default_ticker": "EAD",
+        "etoro": "EAD",
+        "long_name": "Wells Fargo Advantage Funds - Wells Fargo Income Opportunities Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "WisdomTree Cloud Computing Fund": {
+        "default_ticker": "WCLD",
+        "etoro": "WCLD",
+        "long_name": "WisdomTree Cloud Computing Fund",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "WisdomTree"
+    },
+    "Credit Suisse AG Credit Suisse ": {
+        "default_ticker": "REML",
+        "etoro": "REML",
+        "long_name": "Credit Suisse X-Links Monthly Pay 2xLeveraged Mortgage REIT ETN",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Credit Suisse AG"
+    },
+    "Xtrackers Harvest CSI 300 China": {
+        "default_ticker": "ASHR",
+        "etoro": "ASHR",
+        "long_name": "Xtrackers Harvest CSI 300 China A-Shares ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Xtrackers"
+    },
+    "XTRACKERS X MSCI INDIA SWAP": {
+        "default_ticker": "XCX5.L",
+        "etoro": "XCX5.L",
+        "long_name": "Xtrackers - MSCI India Swap UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "XTRACKERS X NIKKEI 225": {
+        "default_ticker": "XDJP.L",
+        "etoro": "XDJP.L",
+        "long_name": "Xtrackers - Nikkei 225 UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "XTRACKERS X STXX EUROPE UTILITI": {
+        "default_ticker": "XS6R.L",
+        "etoro": "XS6R.L",
+        "long_name": "Xtrackers - Stoxx Europe 600 Utilities Swap UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iPath Bloomberg Commodity Index": {
+        "default_ticker": "DJP",
+        "etoro": "DJP",
+        "long_name": "iPath Bloomberg Commodity Index Total Return(SM) ETN",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Milleis Investissements Funds"
+    },
+    "iPath Series B S&P 500 VIX Shor": {
+        "default_ticker": "VXX",
+        "etoro": "VXX",
+        "long_name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Milleis Investissements Funds"
+    },
+    "ISHARES PLC ISHARES $ CORP.BOND": {
+        "default_ticker": "LQDE.L",
+        "etoro": "LQDE.L",
+        "long_name": "iShares $ Corp Bond UCITS ETF USD (Dist)",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": "BlackRock Asset Management Ireland - ETF"
+    },
+    "iShares 1-3 Year Treasury Bond ": {
+        "default_ticker": "SHY",
+        "etoro": "SHY",
+        "long_name": "iShares 1-3 Year Treasury Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares 7-10 Year Treasury Bond": {
+        "default_ticker": "IEF",
+        "etoro": "IEF",
+        "long_name": "iShares 7-10 Year Treasury Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES PLC ISHARES AEX UCITS E": {
+        "default_ticker": "IAEX.L",
+        "etoro": "IAEX.L",
+        "long_name": "iShares AEX UCITS ETF EUR (Dist)",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": "BlackRock Asset Management Ireland - ETF"
+    },
+    "ISHARES PLC ISHARES ASIA PAC. D": {
+        "default_ticker": "IAPD.L",
+        "etoro": "IAPD.L",
+        "long_name": "iShares Public Limited Company - iShares Asia Pacific Dividend UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "null": {
+        "default_ticker": "CNDX",
+        "etoro": "CNDX",
+        "long_name": "iShares NASDAQ 100 ETF USD Acc",
+        "tz_name": "",
+        "tz_short_name": "",
+        "quote_type": "ETF",
+        "market": "",
+        "fund_family": "BlackRock Asset Management Ireland - ETF"
+    },
+    "iShares China Large-Cap ETF": {
+        "default_ticker": "FXI",
+        "etoro": "FXI",
+        "long_name": "iShares China Large-Cap ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core 1-5 Year USD Bond ": {
+        "default_ticker": "ISTB",
+        "etoro": "ISTB",
+        "long_name": "iShares Core 1-5 Year USD Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core 10  Year USD Bond ": {
+        "default_ticker": "ILTB",
+        "etoro": "ILTB",
+        "long_name": "iShares Core 10+ Year USD Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core 5-10 Year USD Bond": {
+        "default_ticker": "IMTB",
+        "etoro": "IMTB",
+        "long_name": "iShares Core 5-10 Year USD Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core Aggressive Allocat": {
+        "default_ticker": "AOA",
+        "etoro": "AOA",
+        "long_name": "iShares Core Aggressive Allocation ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core Conservative Alloc": {
+        "default_ticker": "AOK",
+        "etoro": "AOK",
+        "long_name": "iShares Core Conservative Allocation ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core Dividend Growth ET": {
+        "default_ticker": "DGRO",
+        "etoro": "DGRO",
+        "long_name": "iShares Core Dividend Growth ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES PLC ISHARES CORE FTSE10": {
+        "default_ticker": "ISF.L",
+        "etoro": "ISF.L",
+        "long_name": "iShares Public Limited Company - iShares Core FTSE 100 UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares Core Growth Allocation ": {
+        "default_ticker": "AOR",
+        "etoro": "AOR",
+        "long_name": "iShares Core Growth Allocation ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core High Dividend ETF": {
+        "default_ticker": "HDV",
+        "etoro": "HDV",
+        "long_name": "iShares Core High Dividend ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares International Aggregate": {
+        "default_ticker": "IAGG",
+        "etoro": "IAGG",
+        "long_name": "iShares Core International Aggregate Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core MSCI EAFE ETF": {
+        "default_ticker": "IEFA",
+        "etoro": "IEFA",
+        "long_name": "iShares Core MSCI EAFE ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core MSCI Emerging Mark": {
+        "default_ticker": "IEMG",
+        "etoro": "IEMG",
+        "long_name": "iShares Core MSCI Emerging Markets ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core MSCI Europe ETF": {
+        "default_ticker": "IEUR",
+        "etoro": "IEUR",
+        "long_name": "iShares Core MSCI Europe ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core MSCI International": {
+        "default_ticker": "IDEV",
+        "etoro": "IDEV",
+        "long_name": "iShares Core MSCI International Developed Markets ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core MSCI Pacific ETF": {
+        "default_ticker": "IPAC",
+        "etoro": "IPAC",
+        "long_name": "iShares Core MSCI Pacific ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core MSCI Total Interna": {
+        "default_ticker": "IXUS",
+        "etoro": "IXUS",
+        "long_name": "iShares Core MSCI Total International Stock ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES III PLC ISHRS CORE MSCI": {
+        "default_ticker": "SWDA.L",
+        "etoro": "SWDA.L",
+        "long_name": "iShares III Public Limited Company - iShares Core MSCI World UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares Core S&P 500 ETF": {
+        "default_ticker": "IVV",
+        "etoro": "IVV",
+        "long_name": "iShares Core S&P 500 ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core S&P Mid-Cap ETF": {
+        "default_ticker": "IJH",
+        "etoro": "IJH",
+        "long_name": "iShares Core S&P Mid-Cap ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core S&P Small-Cap ETF": {
+        "default_ticker": "IJR",
+        "etoro": "IJR",
+        "long_name": "iShares Core S&P Small-Cap ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core S&P Total U.S. Sto": {
+        "default_ticker": "ITOT",
+        "etoro": "ITOT",
+        "long_name": "iShares Core S&P Total U.S. Stock Market ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core S&P U.S. Growth ET": {
+        "default_ticker": "IUSG",
+        "etoro": "IUSG",
+        "long_name": "iShares Core S&P U.S. Growth ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "iShares Core S&P U.S. Value ETF": {
+        "default_ticker": "IUSV",
+        "etoro": "IUSV",
+        "long_name": "iShares Core S&P U.S. Value ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core Total USD Bond Mar": {
+        "default_ticker": "IUSB",
+        "etoro": "IUSB",
+        "long_name": "iShares Core Total USD Bond Market ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core U.S. Aggregate Bon": {
+        "default_ticker": "AGG",
+        "etoro": "AGG",
+        "long_name": "iShares Core U.S. Aggregate Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Core U.S. REIT ETF": {
+        "default_ticker": "USRT",
+        "etoro": "USRT",
+        "long_name": "iShares Core U.S. REIT ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "IMV Inc.": {
+        "default_ticker": "IMV",
+        "etoro": "IMV",
+        "long_name": "IMV Inc.",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "EQUITY",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "iShares MSCI USA Min Vol Factor": {
+        "default_ticker": "USMV",
+        "etoro": "USMV",
+        "long_name": "iShares MSCI USA Min Vol Factor ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares MSCI USA Momentum Facto": {
+        "default_ticker": "MTUM",
+        "etoro": "MTUM",
+        "long_name": "iShares MSCI USA Momentum Factor ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares MSCI USA Quality Factor": {
+        "default_ticker": "QUAL",
+        "etoro": "QUAL",
+        "long_name": "iShares MSCI USA Quality Factor ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES III PLC ISHRS EM LOCAL ": {
+        "default_ticker": "IEML.L",
+        "etoro": "IEML.L",
+        "long_name": "iShares III Public Limited Company - iShares Emerging Markets Local Government Bond UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "ISHARES PLC ISHARES FTSE 250 UC": {
+        "default_ticker": "MIDD.L",
+        "etoro": "MIDD.L",
+        "long_name": "iShares FTSE 250 UCITS ETF GBP (Dist)",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": "BlackRock Asset Management Ireland - ETF"
+    },
+    "ISHARES II PLC ISHARES FTSE MIB": {
+        "default_ticker": "IMIB.L",
+        "etoro": "IMIB.L",
+        "long_name": "iShares II Public Limited Company - iShares FTSE MIB UCITS ETF EUR (Dist)",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": "BlackRock Asset Management Ireland - ETF"
+    },
+    "iShares Global Healthcare ETF": {
+        "default_ticker": "IXJ",
+        "etoro": "IXJ",
+        "long_name": "iShares Global Healthcare ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Trust iShares Global RE": {
+        "default_ticker": "REET",
+        "etoro": "REET",
+        "long_name": "iShares Global REIT ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES V PUBLIC LIMITED COMPAN": {
+        "default_ticker": "IJPE.L",
+        "etoro": "IJPE.L",
+        "long_name": "iShares MSCI Japan EUR Hedged UCITS ETF (Acc)",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": "BlackRock Asset Management Ireland - ETF"
+    },
+    "iShares Gold Trust Shares of th": {
+        "default_ticker": "IAU",
+        "etoro": "IAU",
+        "long_name": "iShares Gold Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "ISHARES II PLC ISHRS J.P. MORGA": {
+        "default_ticker": "SEMB.L",
+        "etoro": "SEMB.L",
+        "long_name": "iShares II Public Limited Company - iShares J.P. Morgan $ Emerging Markets Bond UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares J.P. Morgan USD Emergin": {
+        "default_ticker": "EMB",
+        "etoro": "EMB",
+        "long_name": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES PLC ISHARES MSCI AC FE ": {
+        "default_ticker": "IFFF.L",
+        "etoro": "IFFF.L",
+        "long_name": "iShares Public Limited Company - iShares MSCI AC Far East ex-Japan UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares MSCI ACWI Index Fund": {
+        "default_ticker": "ACWI",
+        "etoro": "ACWI",
+        "long_name": "iShares MSCI ACWI ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares MSCI All Country Asia e": {
+        "default_ticker": "AAXJ",
+        "etoro": "AAXJ",
+        "long_name": "iShares MSCI All Country Asia ex Japan ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES PLC ISHARES MSCI BRAZIL": {
+        "default_ticker": "IBZL.L",
+        "etoro": "IBZL.L",
+        "long_name": "iShares Public Limited Company - iShares MSCI Brazil UCITS ETF USD (Dist)",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares MSCI China A ETF": {
+        "default_ticker": "CNYA",
+        "etoro": "CNYA",
+        "long_name": "iShares MSCI China A ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares MSCI China ETF": {
+        "default_ticker": "MCHI",
+        "etoro": "MCHI",
+        "long_name": "iShares MSCI China ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares MSCI EAFE ETF": {
+        "default_ticker": "EFA",
+        "etoro": "EFA",
+        "long_name": "iShares MSCI EAFE ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES PLC ISHARES MSCI EM UCI": {
+        "default_ticker": "IDEM.L",
+        "etoro": "IDEM.L",
+        "long_name": "iShares MSCI EM UCITS ETF USD (Dist)",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": "BlackRock Asset Management Ireland - ETF"
+    },
+    "ISHARES II PLC ISHARES MSCI EUR": {
+        "default_ticker": "IMEU.L",
+        "etoro": "IMEU.L",
+        "long_name": "iShares II Public Limited Company - iShares MSCI Europe UCITS ETF EUR (Dist)",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares MSCI Eurozone ETF": {
+        "default_ticker": "EZU",
+        "etoro": "EZU",
+        "long_name": "iShares MSCI Eurozone ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares MSCI Germany Index Fund": {
+        "default_ticker": "EWG",
+        "etoro": "EWG",
+        "long_name": "iShares MSCI Germany ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares MSCI Hong Kong Index Fu": {
+        "default_ticker": "EWH",
+        "etoro": "EWH",
+        "long_name": "iShares MSCI Hong Kong ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": ""
+    },
+    "Ishares MSCI India ETF": {
+        "default_ticker": "INDA",
+        "etoro": "INDA",
+        "long_name": "iShares MSCI India ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares MSCI Netherlands Index ": {
+        "default_ticker": "EWN",
+        "etoro": "EWN",
+        "long_name": "iShares MSCI Netherlands ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Inc iShares MSCI Switze": {
+        "default_ticker": "EWL",
+        "etoro": "EWL",
+        "long_name": "iShares MSCI Switzerland ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES PLC ISHARES MSCI TAIWAN": {
+        "default_ticker": "ITWN.L",
+        "etoro": "ITWN.L",
+        "long_name": "iShares Public Limited Company - iShares MSCI Taiwan UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares Inc iShares MSCI Thaila": {
+        "default_ticker": "THD",
+        "etoro": "THD",
+        "long_name": "iShares MSCI Thailand ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "Principal Healthcare Innovators": {
+        "default_ticker": "BTEC",
+        "etoro": "BTEC",
+        "long_name": "Principal Healthcare Innovators Index ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "Principal Funds"
+    },
+    "iShares National Muni Bond ETF": {
+        "default_ticker": "MUB",
+        "etoro": "MUB",
+        "long_name": "iShares National Muni Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Semiconductor ETF": {
+        "default_ticker": "SOXX",
+        "etoro": "SOXX",
+        "long_name": "iShares Semiconductor ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Preferred and Income Se": {
+        "default_ticker": "PFF",
+        "etoro": "PFF",
+        "long_name": "iShares Preferred and Income Securities ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Russell 1000 ETF": {
+        "default_ticker": "IWB",
+        "etoro": "IWB",
+        "long_name": "iShares Russell 1000 ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Russell 1000 Growth ETF": {
+        "default_ticker": "IWF",
+        "etoro": "IWF",
+        "long_name": "iShares Russell 1000 Growth ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Russell 1000 Value ETF": {
+        "default_ticker": "IWD",
+        "etoro": "IWD",
+        "long_name": "iShares Russell 1000 Value ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Russell 2000 Growth ETF": {
+        "default_ticker": "IWO",
+        "etoro": "IWO",
+        "long_name": "iShares Russell 2000 Growth ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Russell 2000 Value ETF": {
+        "default_ticker": "IWN",
+        "etoro": "IWN",
+        "long_name": "iShares Russell 2000 Value ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Russell Mid-Cap ETF": {
+        "default_ticker": "IWR",
+        "etoro": "IWR",
+        "long_name": "iShares Russell Mid-Cap ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Russell Mid-cap Value E": {
+        "default_ticker": "IWS",
+        "etoro": "IWS",
+        "long_name": "iShares Russell Mid-Cap Value ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares S&P 500 Growth ETF": {
+        "default_ticker": "IVW",
+        "etoro": "IVW",
+        "long_name": "iShares S&P 500 Growth ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES PLC ISHARES S&P 500 UCI": {
+        "default_ticker": "IUSA.L",
+        "etoro": "IUSA.L",
+        "long_name": "iShares Public Limited Company - iShares S&P 500 UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares S&P Mid-Cap 400 Value E": {
+        "default_ticker": "IJJ",
+        "etoro": "IJJ",
+        "long_name": "iShares S&P Mid-Cap 400 Value ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Select Dividend ETF": {
+        "default_ticker": "DVY",
+        "etoro": "DVY",
+        "long_name": "iShares Select Dividend ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Short Treasury Bond ETF": {
+        "default_ticker": "SHV",
+        "etoro": "SHV",
+        "long_name": "iShares Short Treasury Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares Silver Trust": {
+        "default_ticker": "SLV",
+        "etoro": "SLV",
+        "long_name": "iShares Silver Trust",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares TIPS Bond ETF": {
+        "default_ticker": "TIP",
+        "etoro": "TIP",
+        "long_name": "iShares TIPS Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares U.S. Medical Devices ET": {
+        "default_ticker": "IHI",
+        "etoro": "IHI",
+        "long_name": "iShares U.S. Medical Devices ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES II PLC ISHARES UK PROPE": {
+        "default_ticker": "IUKP.L",
+        "etoro": "IUKP.L",
+        "long_name": "iShares II Public Limited Company - iShares UK Property UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares U.S. Aerospace & Defens": {
+        "default_ticker": "ITA",
+        "etoro": "ITA",
+        "long_name": "iShares U.S. Aerospace & Defense ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "ISHARES II PLC ISHARES US AGG B": {
+        "default_ticker": "IUAA.L",
+        "etoro": "IUAA.L",
+        "long_name": "iShares II Public Limited Company - iShares US Aggregate Bond UCITS ETF",
+        "tz_name": "Europe/London",
+        "tz_short_name": "BST",
+        "quote_type": "ETF",
+        "market": "gb_market",
+        "fund_family": ""
+    },
+    "iShares U.S. Treasury Bond ETF": {
+        "default_ticker": "GOVT",
+        "etoro": "GOVT",
+        "long_name": "iShares U.S. Treasury Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    },
+    "iShares iBoxx $ Investment Grad": {
+        "default_ticker": "LQD",
+        "etoro": "LQD",
+        "long_name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+        "tz_name": "America/New_York",
+        "tz_short_name": "EDT",
+        "quote_type": "ETF",
+        "market": "us_market",
+        "fund_family": "iShares"
+    }
 }

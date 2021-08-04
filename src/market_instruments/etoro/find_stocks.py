@@ -1,4 +1,5 @@
 import json
+from time import sleep
 
 import yfinance as yf
 
@@ -11,8 +12,14 @@ stock_details = dict()
 for i, (k, v) in enumerate(stock_list.items()):
     print("{} of {}".format(i + 1, stock_list_len))
 
-    ticker = yf.Ticker(v["symbol"])
-    ticker_info = ticker.get_info()
+    ticker_info = None
+    while ticker_info is None:
+        try:
+            ticker = yf.Ticker(v["symbol"])
+            ticker_info = ticker.get_info()
+        except:
+            sleep(30)
+
     if "quoteType" in ticker_info:
         stock_details[ticker_info["shortName"]] = {
             "default_ticker": ticker_info.get("symbol", ""),
@@ -21,8 +28,9 @@ for i, (k, v) in enumerate(stock_list.items()):
             "tz_name": ticker_info.get("exchangeTimezoneName", ""),
             "tz_short_name": ticker_info.get("exchangeTimezoneShortName", ""),
             "quote_type": ticker_info.get("quoteType", ""),
+            "sector": ticker_info.get("sector", ""),
             "market": ticker_info.get("market", ""),
-            "fund_family": ticker_info.get("fundFamily", ""),
+            "average_volume": ticker_info.get("averageVolume", ""),
         }
 
 with open('find_stocks.json', 'w') as fp:
